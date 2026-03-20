@@ -1,1 +1,6 @@
+import kagglehub
 
+# Download latest version
+path = kagglehub.dataset_download("sakshigoyal7/credit-card-customers")
+
+print("Path to dataset files:", path)
