@@ -39,3 +39,8 @@ Segundo grupo formado por Stephanny, Igor e Lucca.
 Visualizações:
 - Clientes por idade, faixa salarial e categoria do cartão
 - Comparativo entre clientes ativos x Clientes que cancelaram o cartão
+
+Métricas:
+- Acurácia
+- Precisão: Percentual de clientes previstos como "churn" que realmente cancelaram o cartão
+- Sensibilidade: Percentual de clientes corretamente identificados qe=ue realmente cancelaram o cartão
