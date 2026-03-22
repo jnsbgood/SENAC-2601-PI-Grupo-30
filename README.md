@@ -15,7 +15,7 @@ DESENVOLVIMENTO LOW CODE EM CIÊNCIA DE DADOS
 ![COLABORADORES_PROJETO_SENAC](https://github.com/user-attachments/assets/997d1b48-24df-4779-bbc8-41b501a144a4)
 
 ## Definição da base de dados e Objetivos:
-A base de dados cujo nome é: "Credit Card customers" origina-se da plataforma Kaggle. Esta base apresenta um registro histórico na relação de ativos e inativos de cartões de crédito de uma agência bancária.
+A base de dados cujo nome é: "Credit Card customers" origina-se da plataforma Kaggle. Esta base apresenta um registro histórico na relação de clientes ativos e inativos de cartões de crédito de uma agência bancária.
 
 Nosso objetivo é realizar o mapeamento do perfil demográfico e comportamental dos clientes propensos ao cancelamento do produto e, a partir da identificação dos mesmos, utilizar de métricas preditivas e estratégias de retenção personalizadas para impedir a queda de usuários da agencia que usaremos como base. A criação deste modelo de inteligência de dados tem como propósito a aplicação em toda a rede bancária.
 
