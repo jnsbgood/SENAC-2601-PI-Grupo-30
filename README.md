@@ -12,6 +12,8 @@ DESENVOLVIMENTO LOW CODE EM CIÊNCIA DE DADOS
 6. Johnny Nunes Santos
 7. Leonardo Sales Araújo
 
+![COLABORADORES_PROJETO_SENAC](https://github.com/user-attachments/assets/997d1b48-24df-4779-bbc8-41b501a144a4)
+
 ## Definição da base de dados e Objetivos:
 A base de dados cujo nome é: "Credit Card customers", origina-se da plataforma Kaggle, e consiste na relação de clientes ativos e inativos de cartões de crédito de uma agência bancária.
 
