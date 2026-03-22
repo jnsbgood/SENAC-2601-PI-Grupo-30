@@ -12,7 +12,9 @@ DESENVOLVIMENTO LOW CODE EM CIÊNCIA DE DADOS
 6. Johnny Nunes Santos
 7. Leonardo Sales Araújo
 
-## Objetivos: 
+## Definição da base de dados e Objetivos:
+A base de dados cujo nome é: "Credit Card customers", origina-se da plataforma Kaggle, e consiste na relação de clientes ativos e inativos de cartões de crédito de uma agência bancária.
+
 Nosso objetivo é realizar o mapeamento do perfil dos clientes propensos ao cancelamento do produto e implementação de estratégias de retenção. Utilizando uma única agência de referência e usar como aplicação em toda a rede bancária.
 
 ## Planejamentos das Tarefas:
