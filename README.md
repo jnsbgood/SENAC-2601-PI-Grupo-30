@@ -27,15 +27,15 @@ Segundo grupo formado por Stephanny, Igor e Lucca.
  - Responsáveis pelo desenvolvimento do README.
 
 ## Cronograma Sugerido
-Semana 1: Entendimento da base e preparação dos dados
-Semana 2: Análise exploratória e primeiras impressões
-Semana 3: Análise de dados prescritiva e definição de estratégias de retenção
-Semana 4: Elaboração do Dashboard e revisão final
+- Semana 1: Entendimento da base e preparação dos dados
+- Semana 2: Análise exploratória e primeiras impressões
+- Semana 3: Análise de dados prescritiva e definição de estratégias de retenção
+- Semana 4: Elaboração do Dashboard e revisão final
 
 ## Transformações a Realizar
-Criação de variáveis derivadas (Renda/Limite de Crédito).
+- Criação de variáveis derivadas (Renda/Limite de Crédito).
 
 ## Ideia Inicial do Dashboard:
 Visualizações:
-Clientes por idade, faixa salarial e categoria do cartão
-Comparativo entre clientes ativos x Clientes que cancelaram o cartão
+- Clientes por idade, faixa salarial e categoria do cartão
+- Comparativo entre clientes ativos x Clientes que cancelaram o cartão
