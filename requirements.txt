@@ -1,3 +1,13 @@
 pandas
+
+numpy
+
+scikit-learn
+
+matplotlib
+
+seaborn
+
 streamlit
-openpyxl
+
+pytest
