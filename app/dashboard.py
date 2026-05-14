@@ -712,17 +712,3 @@ st.info(
     """
 
 )
-
-Pressione Shift + Tab para acessar o histórico do bate-papo.
-
-
-
-
-
-
-Enviar
-Compartilhar conteúdo
-Minhas configurações
-Fechar o painel do Collaborate
-Atalhos de teclado globais: para ligar ou desligar o microfone, pressi alt+m. Para ligar ou desligar a câmera, pressi alt+c. Para erguer ou abaixar a mão, press alt+h.
-
