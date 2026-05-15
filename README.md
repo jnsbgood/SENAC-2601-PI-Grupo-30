@@ -70,7 +70,7 @@ README.md
 Confira se o arquivo original está dentro da pasta `data`:
 
 ```text
-data/BankChurners.csv
+data/base_original.csv
 ```
 
 ---
