@@ -171,7 +171,7 @@ python src/preparacao_base.py
 Esse comando cria o arquivo:
 
 ```text
-python data/base_tratada.csv
+python src/preparacao_base.py
 ```
 
 Depois, execute o ETL:
